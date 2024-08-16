@@ -1,5 +1,5 @@
 
-# Bookstore Application
+# BookHub Application
 
 This is a Java-based bookstore application with a graphical user interface (GUI) designed to manage books in a digital store. Users can add, delete, and update book details, as well as manage book cover pages. The application uses JDBC for database operations.
 
