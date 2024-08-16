@@ -1,4 +1,4 @@
 *.log
 node_modules/
 config.json
-src/assest/Credential.props
+src/assets/Credential.props
