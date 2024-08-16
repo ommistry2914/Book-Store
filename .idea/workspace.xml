@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e965bfa-8673-4709-b211-a3467f1919f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Backend/Listener/BookActionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Listener/BookActionListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Backend/Listener/WindowClosingListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Listener/WindowClosingListener.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ny3gkXZCAUOZMK6rOsRDYvyvyg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.32.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e965bfa-8673-4709-b211-a3467f1919f0" name="Changes" comment="" />
+      <created>1680622610841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680622610841</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added New Structure">
+      <created>1680624014307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680624014307</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1680686148539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680686148539</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Established Connection">
+      <created>1680693787601</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680693787601</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changes in FrontEnd">
+      <created>1680700336755</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680700336755</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added some Prepared Statement">
+      <created>1680713549561</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680713549561</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changes In Modal">
+      <created>1680714607826</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680714607826</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fetch when Initialize is Done!!">
+      <created>1680720696481</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680720696481</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Solved Date Input Bug">
+      <created>1680763801885</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680763801885</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Update feature">
+      <created>1680768748456</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680768748456</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Project Done">
+      <created>1680770085488</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680770085488</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added New Structure" />
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Established Connection" />
+    <MESSAGE value="Changes in FrontEnd" />
+    <MESSAGE value="Added some Prepared Statement" />
+    <MESSAGE value="Changes In Modal" />
+    <MESSAGE value="Fetch when Initialize is Done!!" />
+    <MESSAGE value="Solved Date Input Bug" />
+    <MESSAGE value="Added Update feature" />
+    <MESSAGE value="Project Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Done" />
+  </component>
+</project>
